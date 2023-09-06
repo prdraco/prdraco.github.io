@@ -27,3 +27,8 @@ function carousel2() {
   x[myIndex2-1].style.display = "block";  
   setTimeout(carousel2, 2000); // Change image every 2 seconds
 }
+
+$("#ng-tns-c159-7-cricket").click(function(){
+    window.open("cricket.html");
+});
+
