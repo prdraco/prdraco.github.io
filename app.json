@@ -1,0 +1,10 @@
+{
+    "name": "Animes House",
+    "description": "A free anime streaming website",
+    "keywords": ["Animes House", "gogoanime no ads", "Free Streaming", "ad free watch online", "stream anime online"],
+    "website": "<?=$websiteUrl?>",
+    "logo": "/Logo.png",
+
+    "image": "heroku/php",
+    "stack": "heroku-22"
+}
